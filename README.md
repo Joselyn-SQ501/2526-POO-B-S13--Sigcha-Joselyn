@@ -14,7 +14,7 @@ Desarrollar una aplicación de escritorio GUI que permita:
 - Visualizar los vehículos registrados en una tabla
 - Eliminar vehículos cuando sea necesario
 - Limpiar campos del formulario de registro
-- Aplicar buenas prácticas de programación orientada a objetos para hacer un código comprensible y organizado
+- Aplicar buenas prácticas de POO para un código comprensible y organizado
 - Aplicar correctamente la arquitectura modular
 - Usar adecuadamente los componentes de Tkinter
 
