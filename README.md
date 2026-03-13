@@ -2,7 +2,7 @@
 
 Aplicación de escritorio desarrollada con **Python y Tkinter** que permite registrar y gestionar vehículos dentro de un garaje.
 
-El sistema aplica **Programación Orientada a Objetos (POO)** y una **arquitectura modular por capas**, separando los modelos de datos, la lógica del sistema y la interfaz gráfica.
+El sistema aplica **Programación Orientada a Objetos (POO)** y una **arquitectura modular por capas**, separando los modelos de datos, la lógica del sistema, la interfaz gráfica y el archivo principal.
 
 ---
 
@@ -47,8 +47,6 @@ Contienen las entidades del sistema.
 - Define los atributos del vehículo
 - Implementa **encapsulación con atributos privados**
 
----
-
 ### ⚙️ Servicios
 
 Contienen la **lógica del sistema**.
@@ -57,8 +55,6 @@ Contienen la **lógica del sistema**.
 - Validación de datos
 - Eliminación de vehículos
 - Gestión de la colección (diccionario) de vehículos
-
----
 
 ### 🖥️ Interfaz Gráfica
 
@@ -94,12 +90,11 @@ Permite al usuario:
 - **Type hints**: anotaciones de tipos en todos los métodos para mejorar la legibilidad del código
 
 ---
+
 ## 📋 Requisitos
 
 - Python 3.10 o superior
 - Tkinter (incluido con Python por defecto)
-
----
 
 ## 🚀 Cómo Ejecutar el Programa
 
@@ -114,6 +109,7 @@ Permite al usuario:
    python main.py
    ```
 5. Se abrirá la interfaz gráfica del sistema de gestión de garaje.
+
 ---
 
 ## 🏁 Conclusión
